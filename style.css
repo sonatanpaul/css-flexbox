@@ -1,0 +1,28 @@
+.container {
+  display: flex;
+}
+
+.item {
+  width: 200px;
+  height: 140px;
+  font-size: 3rem;
+  font-weight: 700;
+  border-radius: 6px;
+  text-align: center;
+}
+
+.one {
+  background-color: tomato;
+}
+
+.two {
+  background-color: cornflowerblue;
+}
+
+.three {
+  background-color: pink;
+}
+
+.four {
+  background-color: orange;
+}
